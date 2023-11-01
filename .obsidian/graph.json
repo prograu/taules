@@ -36,14 +36,14 @@
       }
     },
     {
-      "query": "#CANCELLED",
+      "query": "tag:#CANCELLED",
       "color": {
         "a": 1,
         "rgb": 16711680
       }
     },
     {
-      "query": "#TODEFINE",
+      "query": "tag:#TODEFINE",
       "color": {
         "a": 1,
         "rgb": 6710886

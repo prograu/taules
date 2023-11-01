@@ -1,1 +1,0 @@
-Pàgines d'homologació:
