@@ -82,3 +82,7 @@ https://lyckaimport.com/
 - Antena DAB pioneer
 	- 14,85€
 	- https://www.amazon.es/Pioneer-1022123-CA-DAB-001-Antena/dp/B00AGMB5QK/ref=pd_bxgy_sccl_2/261-9453213-4316334?pd_rd_w=iwbnR&content-id=amzn1.sym.1f3e136f-80dc-4ee2-9d0d-548611b99b5c&pf_rd_p=1f3e136f-80dc-4ee2-9d0d-548611b99b5c&pf_rd_r=823PTJYQ5P340M1RY7GX&pd_rd_wg=Nfg41&pd_rd_r=5328adfb-5673-47d6-9ed5-c0896c2a9548&pd_rd_i=B00AGMB5QK&psc=1
+
+
+Tasks:
+[[Furgo kanban#^8xv4ej]]
