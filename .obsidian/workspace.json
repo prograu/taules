@@ -30,6 +30,14 @@
             }
           },
           {
+            "id": "00fcdeb30cd9cea0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "42170d7b8a3c0f34",
             "type": "leaf",
             "state": {
@@ -50,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -79,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#radio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Furgo kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Furgo kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Furgo kanban.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,19 +191,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ab649274c38f6e4a",
+  "active": "00fcdeb30cd9cea0",
   "lastOpenFiles": [
-    "Disseny interior.md",
-    "Furgo kanban.md",
-    "Aïllament.md",
-    "Canvas test.canvas",
-    "Gastos.md",
-    "Electricitat/Recanvis.md",
-    "Radio.md",
+    "Excalidraw/Drawing 2023-11-03 15.09.32.excalidraw.md",
     "Exterior/Toldo.md",
-    "Exterior",
+    "Furgo kanban.md",
+    "Disseny interior.md",
+    "Canvas test.canvas",
+    "Aïllament.md",
     "Servei extern/Homologació.md",
     "Servei extern/Tallers camperitzadors.md",
+    "Gastos.md",
+    "Radio.md",
+    "Excalidraw/Scripts/Downloaded/Set Dimensions.svg",
+    "Excalidraw/Scripts/Downloaded/Set Dimensions.md",
+    "Excalidraw/Scripts/Downloaded/Fixed vertical distance.svg",
+    "Excalidraw/Scripts/Downloaded/Fixed vertical distance.md",
+    "Excalidraw/Scripts/Downloaded/Fixed horizontal distance between centers.svg",
+    "Excalidraw/Scripts/Downloaded/Fixed horizontal distance between centers.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw",
+    "Electricitat/Recanvis.md",
+    "Exterior",
     "Servei extern",
     "Untitled.canvas",
     "2023-11-01.md",

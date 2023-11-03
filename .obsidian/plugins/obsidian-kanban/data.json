@@ -31,5 +31,43 @@
       "isAfter": true,
       "color": "rgba(0, 247, 0, 1)"
     }
-  ]
+  ],
+  "tag-colors": [
+    {
+      "tagKey": "#electricitat",
+      "color": "rgba(209, 212, 4, 1)",
+      "backgroundColor": ""
+    },
+    {
+      "tagKey": "#interior",
+      "color": "rgba(153, 70, 18, 1)",
+      "backgroundColor": ""
+    },
+    {
+      "tagKey": "#radio",
+      "color": "rgba(194, 27, 192, 1)",
+      "backgroundColor": ""
+    },
+    {
+      "tagKey": "#obsidian",
+      "color": "rgba(0, 0, 0, 1)",
+      "backgroundColor": ""
+    },
+    {
+      "tagKey": "#aigua",
+      "color": "rgba(13, 0, 255, 1)",
+      "backgroundColor": ""
+    },
+    {
+      "tagKey": "#exterior",
+      "color": "rgba(5, 255, 0, 1)",
+      "backgroundColor": ""
+    },
+    {
+      "tagKey": "#muntatge",
+      "color": "rgba(255, 145, 0, 1)",
+      "backgroundColor": ""
+    }
+  ],
+  "hide-tags-in-title": true
 }
