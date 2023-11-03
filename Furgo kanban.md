@@ -6,6 +6,9 @@ kanban-plugin: basic
 
 ## TODEFINE
 
+- [ ] Electricitat learning
+- [ ] Electricitat elements
+- [ ] Electricitat compres
 
 
 ## TODO
@@ -19,6 +22,7 @@ kanban-plugin: basic
 
 ## BLOCKED
 
+- [ ] Radio muntatge
 
 
 ## DONE
