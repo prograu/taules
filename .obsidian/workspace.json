@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "30d3595ea2b63188",
+            "id": "ed1bbcc0491fe6a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electricitat/Recanvis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab649274c38f6e4a",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -16,8 +28,29 @@
                 "file": "Furgo kanban.md"
               }
             }
+          },
+          {
+            "id": "42170d7b8a3c0f34",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "b1d54dacad5708b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Disseny interior.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,23 +183,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "30d3595ea2b63188",
+  "active": "ab649274c38f6e4a",
   "lastOpenFiles": [
     "Disseny interior.md",
-    "Gastos.md",
-    "Radio.md",
     "Furgo kanban.md",
-    "Kanban board.md",
-    "Electricitat/Plaques solars.md",
-    "Electricitat/Electricitat.md",
-    "Electricitat/Endoll extern per carregar.md",
-    "Electricitat/Bateria.md",
     "Aïllament.md",
     "Canvas test.canvas",
+    "Gastos.md",
     "Electricitat/Recanvis.md",
+    "Radio.md",
     "Exterior/Toldo.md",
     "Exterior",
     "Servei extern/Homologació.md",
@@ -174,7 +203,11 @@
     "Servei extern",
     "Untitled.canvas",
     "2023-11-01.md",
+    "Electricitat/Electricitat.md",
+    "Electricitat/Bateria.md",
+    "Electricitat/Endoll extern per carregar.md",
     "Electricitat/Inversor.md",
+    "Electricitat/Plaques solars.md",
     "Electricitat",
     "2023-10-13.md",
     "Furgoneta"
