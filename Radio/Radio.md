@@ -1,0 +1,85 @@
+---
+tags:
+  - "#DOING"
+  - radio
+---
+# Webs:
+https://lyckaimport.com/
+
+# Càmares de visió trasera
+
+- https://lyckaimport.com/camaras-marcha-atras/10234-camara-marcha-atras-citroen-fiat-peugeot.html
+	- No en queden i sembla que no encaixaria massa bé i no en queden disponibles
+	- 102,85€
+	- LKCAMFIAT4
+- https://lyckaimport.com/camaras-marcha-atras/2331-camara-de-marcha-atras-luz-de-freno-para-fiat.html
+	- Sembla el model perfecte d'adaptació, etc
+	- 102,85€
+	- LKCAMFIAT1
+- https://lyckaimport.com/camaras-marcha-atras/2332-camara-de-marcha-atras-luz--freno-para-fiat-peu.html
+	- Sembla el model perfecte d'adaptació, etc
+	- 102,85€
+	- LKCAMFIAT2
+
+# Pack radios
+- Frontal radio:
+	- Opció 1:
+		- https://lyckaimport.com/frontal-autoradio/9677-frontal-radio-fiatcitroenpeugeot-con-radio-vp12-4026724336603.html
+		- 41,62€
+		- 281094-35-1
+- Interficie mandos volant
+	- Opció 1:
+		- https://lyckaimport.com/interface-mandos-volante/1550-interface-mandos-en-volante-fiat-especifico.html
+		- 52,03€
+		- CTSFA0192
+- Cable mando volant
+	- Opció 1:
+		- https://lyckaimport.com/interface-mandos-volante/7889-cable-conexion-mandos-de-volante-different-hu-4026724115840.html
+		- 5,29€
+		- 24ctmultilead
+- Connector antena din fakra
+	- Opció 1:
+		- https://lyckaimport.com/antenas-coche-conectores/2186-conector-antena-din-fakra-0645760786056.html
+		- 3,57€
+- Radio multimedia
+	- Opció 1:
+		- https://lyckaimport.com/pantallas-1-y-2-din/3648-pantalla-2-din-pioneer-weblinkbluetoothusb-988028481130.html
+		- 165,35€
+		- DMHA240BT
+		- Potser no té radio, esperar resposta lyckaimport
+	- Opció 2:
+		- https://www.amazon.es/Autorradio-Multimedia-PIONEER-AVH-A240DAB-Dab/dp/B093QKPZ92/ref=sr_1_3_mod_primary_new?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=7PWSRX0K65LX&keywords=radio+cd+pioneer+2+din&qid=1698498163&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=radio+cd+pioneer+2+di%2Caps%2C475&sr=8-3
+		- 221,80€
+		- AVH-A240DAB
+		- amb radio segur
+	- Info útil ràdios pioneer
+		- https://www.pioneer-car.eu/es/es/products/multimedia-receivers/overview?cd_dvd_player=1
+		- AVH-A210BT
+		- AVH-A240BT
+			- 219€
+			- https://www.amazon.es/dp/B095PWHZJD/ref=emc_b_5_t
+		- AVH-A240DAB
+			- 222,11€
+			- https://www.amazon.es/dp/B093QKPZ92/ref=emc_b_5_t
+		- AVH-A3200DAB
+			- 396,57€
+			- https://www.amazon.es/dp/B07PJDMWVV/ref=emc_b_5_t
+		- AVH-A7100BT
+		- AVH-Z2200BT
+			- 371,04€
+			- https://www.amazon.es/Pioneer-1025873-AVH-Z2200BT-Autorradio-Conectividad/dp/B07Q1DJ3N3/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=173UHUS4FS54S&keywords=AVH-Z2200BT&qid=1698505287&s=automotive&sprefix=avh-z2200bt%2Cautomotive%2C128&sr=1-1
+		- AVH-Z3200DAB
+			- 404,28€
+			- https://www.amazon.es/dp/B07PK5SRM8/ref=emc_b_5_t
+		- AVH-Z5200DAB
+			- 639,30€
+			- https://www.amazon.es/dp/B07Q6LMZPT/ref=emc_b_5_t
+		- AVH-Z9200DAB
+			- 646,28€
+			- https://www.amazon.es/dp/B07Q3GJP1S/ref=emc_b_5_t
+		- XXXXBT == XXXXDAB
+			- Única diferència és que pot portar antena DAB+ per millor qualitat de radio
+			- Com més gran la XXXX més nou i qualitat té el sistema. Millor ampli i més coses. Tot i això segurament no val la pena.
+- Antena DAB pioneer
+	- 14,85€
+	- https://www.amazon.es/Pioneer-1022123-CA-DAB-001-Antena/dp/B00AGMB5QK/ref=pd_bxgy_sccl_2/261-9453213-4316334?pd_rd_w=iwbnR&content-id=amzn1.sym.1f3e136f-80dc-4ee2-9d0d-548611b99b5c&pf_rd_p=1f3e136f-80dc-4ee2-9d0d-548611b99b5c&pf_rd_r=823PTJYQ5P340M1RY7GX&pd_rd_wg=Nfg41&pd_rd_r=5328adfb-5673-47d6-9ed5-c0896c2a9548&pd_rd_i=B00AGMB5QK&psc=1

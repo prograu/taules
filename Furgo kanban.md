@@ -19,22 +19,23 @@ kanban-plugin: basic
 - [ ] Electricitat learning @{2023-11-19} #electricitat<br>- Escollir potencia mitja que volem (W)<br>- Identificar els elements principals que necessitem
 - [ ] Escollir elements exteriors @{2023-12-03} #exterior #electricitat <br>- Finestres<br>- Plaques solars
 - [ ] Prendre mesures de la furgo: #exterior #interior @{2023-11-12}<br>- Amplada i llargada interior amb cantonades<br>- Mesures  rodes interiors<br>- Mesures portes<br>- Cabina del davant<br>- Posició rodes
+- [ ] Comprar: @{2023-11-10} #electricitat #muntatge <br>- Tenalles pelacables<br>- Cinta d'electricitat<br>- Brides<br>- Tornavis "star" torx tx25<br>- amperímetre
 
 
 ## DOING
 
-- [ ] Afegir tota la info dels catàlegs @{2023-11-02} #obsidian
-- [ ] Recollir paquets i gestionar GLS @{2023-11-06} #radio ^8xv4ej
+- [ ] Afegir tota la info dels catàlegs @{2023-11-17} #obsidian
+- [ ] Radio muntatge @{2023-11-14} #radio #muntatge
 
 
 ## BLOCKED
 
-- [ ] Radio muntatge @{2023-11-03} #radio #muntatge
 
 
 ## DONE
 
 - [ ] Escollir radio final i comprar-ho tot @{2023-10-30} #radio
+- [ ] Recollir paquets i gestionar GLS @{2023-11-06} #radio ^8xv4ej
 
 
 ## CANCELLED

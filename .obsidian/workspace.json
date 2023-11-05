@@ -11,30 +11,10 @@
             "id": "ed1bbcc0491fe6a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electricitat/Recanvis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab649274c38f6e4a",
-            "type": "leaf",
-            "state": {
               "type": "kanban",
               "state": {
                 "file": "Furgo kanban.md"
               }
-            }
-          },
-          {
-            "id": "00fcdeb30cd9cea0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           },
           {
@@ -49,11 +29,9 @@
             "id": "b1d54dacad5708b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Disseny interior.md",
-                "mode": "source",
-                "source": false
+                "file": "Furgo kanban.md"
               }
             }
           }
@@ -124,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Furgo kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Furgo kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Furgo kanban.md"
+              }
             }
           },
           {
@@ -191,18 +173,30 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "00fcdeb30cd9cea0",
+  "active": "b1d54dacad5708b8",
   "lastOpenFiles": [
+    "Gastos.md",
+    "Radio/Muntatge.md",
+    "Interior/Disseny interior.md",
+    "Furgo kanban.md",
+    "Radio/manual_frontal_radio.pdf",
+    "Radio/Unconfirmed 659072.crdownload",
+    "Electricitat/Recanvis.md",
+    "Radio/manual_cable_steering_wheel.pdf",
+    "Aïllament/Aïllament.md",
+    "Interior",
+    "Aïllament",
+    "Radio/Radio.md",
+    "Radio/0.pdf",
+    "Radio/Unconfirmed 609453.crdownload",
+    "Radio",
+    "Electricitat/Bateria.md",
+    "Electricitat/Electricitat.md",
     "Excalidraw/Drawing 2023-11-03 15.09.32.excalidraw.md",
     "Exterior/Toldo.md",
-    "Furgo kanban.md",
-    "Disseny interior.md",
-    "Canvas test.canvas",
-    "Aïllament.md",
+    "Interior/Canvas test.canvas",
     "Servei extern/Homologació.md",
     "Servei extern/Tallers camperitzadors.md",
-    "Gastos.md",
-    "Radio.md",
     "Excalidraw/Scripts/Downloaded/Set Dimensions.svg",
     "Excalidraw/Scripts/Downloaded/Set Dimensions.md",
     "Excalidraw/Scripts/Downloaded/Fixed vertical distance.svg",
@@ -211,19 +205,11 @@
     "Excalidraw/Scripts/Downloaded/Fixed horizontal distance between centers.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "Excalidraw",
-    "Electricitat/Recanvis.md",
-    "Exterior",
-    "Servei extern",
     "Untitled.canvas",
     "2023-11-01.md",
-    "Electricitat/Electricitat.md",
-    "Electricitat/Bateria.md",
     "Electricitat/Endoll extern per carregar.md",
     "Electricitat/Inversor.md",
     "Electricitat/Plaques solars.md",
-    "Electricitat",
-    "2023-10-13.md",
-    "Furgoneta"
+    "2023-10-13.md"
   ]
 }

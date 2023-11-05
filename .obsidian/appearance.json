@@ -3,5 +3,6 @@
   "enabledCssSnippets": [
     "snippets"
   ],
-  "cssTheme": "Minimal"
+  "cssTheme": "Minimal",
+  "theme": "obsidian"
 }
