@@ -4,29 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "908efc04062f501c",
+        "id": "1cf27e74d02a5fc8",
         "type": "tabs",
         "children": [
           {
-            "id": "ed1bbcc0491fe6a5",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Furgo kanban.md"
-              }
-            }
-          },
-          {
-            "id": "42170d7b8a3c0f34",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "b1d54dacad5708b8",
+            "id": "2aa5b2800e77ad90",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -35,8 +17,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,13 +154,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b1d54dacad5708b8",
+  "active": "2aa5b2800e77ad90",
   "lastOpenFiles": [
+    "Furgo kanban.md",
     "Gastos.md",
+    "Joan coses kanban.md",
+    "Radio/manual_frontal_radio.pdf",
     "Radio/Muntatge.md",
     "Interior/Disseny interior.md",
-    "Furgo kanban.md",
-    "Radio/manual_frontal_radio.pdf",
     "Radio/Unconfirmed 659072.crdownload",
     "Electricitat/Recanvis.md",
     "Radio/manual_cable_steering_wheel.pdf",
