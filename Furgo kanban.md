@@ -24,7 +24,7 @@ kanban-plugin: basic
 ## DOING
 
 - [ ] Afegir tota la info dels catàlegs @{2023-11-17} #obsidian
-- [x] Radio muntatge: @{2023-11-17} #radio #muntatge #electricitat <br>- [x] Muntar radio principal<br>- [ ] Muntar camara marxa enrera<br>- [ ] Muntar antena DAB<br>- [ ] Muntar antena mans lliures
+- [x] Radio muntatge: @{2023-11-17} #radio #muntatge #electricitat <br>- [x] Muntar radio principal<br>- [ ] Muntar camara marxa enrera<br>- [x] Muntar antena DAB<br>- [x] Muntar microfon mans lliures
 
 
 ## BLOCKED
