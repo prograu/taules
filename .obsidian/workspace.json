@@ -11,9 +11,11 @@
             "id": "2aa5b2800e77ad90",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Furgo kanban.md"
+                "file": "Electricitat/Bateria.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Furgo kanban.md",
+                "file": "Electricitat/Bateria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Furgo kanban.md",
+                "file": "Electricitat/Bateria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Furgo kanban.md"
+                "file": "Electricitat/Bateria.md"
               }
             }
           },
