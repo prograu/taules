@@ -67,6 +67,22 @@
       "tagKey": "#muntatge",
       "color": "rgba(255, 145, 0, 1)",
       "backgroundColor": ""
+    },
+    {"tagKey":"#TOP",
+      "color":"rgba(0, 87, 255, 1)",
+      "backgroundColor":""
+    },{
+      "tagKey":"#high",
+      "color":"rgba(255, 0, 0, 1)",
+      "backgroundColor":""
+    },{
+      "tagKey":"#medium",
+      "color":"rgba(251, 255, 0, 1)",
+      "backgroundColor":""
+    },{
+      "tagKey":"#low",
+      "color":"rgba(0, 255, 18, 1)",
+      "backgroundColor":""
     }
   ],
   "hide-tags-in-title": true

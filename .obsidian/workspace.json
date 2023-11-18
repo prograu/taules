@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1cf27e74d02a5fc8",
+        "id": "b6c7edf84757aef5",
         "type": "tabs",
         "children": [
           {
-            "id": "2aa5b2800e77ad90",
+            "id": "20994add2f7be7ac",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -63,8 +63,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,12 +154,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "07bbc0998d8aff13",
+  "active": "20994add2f7be7ac",
   "lastOpenFiles": [
     "Joan coses kanban.md",
+    "Gastos.md",
+    "Untitled.md",
     "Furgo kanban.md",
     "Electricitat/Bateria.md",
-    "Gastos.md",
     "Radio/manual_frontal_radio.pdf",
     "Radio/Muntatge.md",
     "Interior/Disseny interior.md",

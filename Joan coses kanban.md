@@ -38,6 +38,6 @@ kanban-plugin: basic
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic","new-line-trigger":"shift-enter","tag-colors":[{"tagKey":"#TOP","color":"rgba(0, 87, 255, 1)","backgroundColor":""},{"tagKey":"#high","color":"rgba(255, 0, 0, 1)","backgroundColor":""},{"tagKey":"#medium","color":"rgba(251, 255, 0, 1)","backgroundColor":""},{"tagKey":"#low","color":"rgba(0, 255, 18, 1)","backgroundColor":""}]}
+{"kanban-plugin":"basic","new-line-trigger":"shift-enter"}
 ```
 %%
