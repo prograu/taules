@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b6c7edf84757aef5",
+        "id": "573f8ae1c2d743ec",
         "type": "tabs",
         "children": [
           {
-            "id": "20994add2f7be7ac",
+            "id": "2cd72f83dcd87124",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -46,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#high",
+                "query": "tag:#low",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,12 +154,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "20994add2f7be7ac",
+  "active": "2cd72f83dcd87124",
   "lastOpenFiles": [
+    "Disseny Organitzacio.md",
+    "Furgo kanban.md",
     "Joan coses kanban.md",
     "Gastos.md",
     "Untitled.md",
-    "Furgo kanban.md",
     "Electricitat/Bateria.md",
     "Radio/manual_frontal_radio.pdf",
     "Radio/Muntatge.md",

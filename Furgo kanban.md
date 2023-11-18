@@ -15,21 +15,22 @@ kanban-plugin: basic
 
 ## TODO
 
-- [ ] Disseny organització @{2023-11-26} #interior
-- [ ] Electricitat learning @{2023-11-19} #electricitat <br>- [ ] Escollir potencia mitja que volem (W)<br>- [ ] Identificar els elements principals que necessitem
-- [ ] Escollir elements exteriors @{2023-12-03} #exterior #electricitat <br>- [ ] Finestres<br>- [ ] Plaques solars
-- [ ] Prendre mesures de la furgo: #exterior #interior @{2023-11-12}<br>- [ ] Amplada i llargada interior amb cantonades<br>- [ ] Mesures  rodes interiors<br>- [ ] Mesures portes<br>- [ ] Cabina del davant<br>- [ ] Posició rodes
+- [ ] Prendre mesures de la furgo: #exterior #interior @{2023-11-12} #medium <br>- [ ] Amplada i llargada interior amb cantonades<br>- [ ] Mesures  rodes interiors<br>- [ ] Mesures portes<br>- [ ] Cabina del davant<br>- [ ] Posició rodes
+- [ ] Llum interior: #electricitat #muntatge #high @{2023-11-26}<br>- [ ] Veure elements del llum i connexió<br>- [ ] Afegir interruptor o manera de mantenir el llum encès més temps
+- [ ] Electricitat learning @{2023-12-09} #electricitat #medium   <br>- [ ] Escollir potencia mitja que volem (W)<br>- [ ] Identificar els elements principals que necessitem<br>- [ ] Triar potència de les plaques solars
 
 
 ## DOING
 
-- [ ] Afegir tota la info dels catàlegs @{2023-11-17} #obsidian
-- [x] Radio muntatge: @{2023-11-17} #radio #muntatge #electricitat  #high <br>- [x] Muntar radio principal<br>- [ ] Muntar camara marxa enrera<br>- [x] Muntar antena DAB<br>- [x] Muntar microfon mans lliures
-- [ ] Comprar: @{2023-11-24} #electricitat #muntatge <br>- [X] Interruptor llum<br>- [x] Cable elèctric<br>- [ ] Fusible 3A<br>- [ ] Entrada a bateria
+- [ ] Afegir tota la info dels catàlegs @{2023-11-17}  #medium #obsidian
+- [x] Radio muntatge: @{2023-11-17} #radio #muntatge #electricitat  #TOP  <br>- [x] Muntar radio principal<br>- [ ] Muntar camara marxa enrera<br>- [x] Muntar antena DAB<br>- [x] Muntar microfon mans lliures
+- [ ] Comprar: @{2023-11-24} #electricitat #muntatge #medium <br>- [X] Interruptor llum<br>- [x] Cable elèctric<br>- [ ] Fusible 3A<br>- [ ] Entrada a bateria
 
 
 ## BLOCKED
 
+- [ ] Disseny organització @{2023-11-26} #interior #low
+- [ ] Escollir elements exteriors @{2023-12-03} #exterior #electricitat #low  <br>- [ ] Finestres<br>- [ ] Plaques solars
 
 
 ## DONE
