@@ -11,11 +11,9 @@
             "id": "2aa5b2800e77ad90",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Electricitat/Bateria.md",
-                "mode": "source",
-                "source": false
+                "file": "Furgo kanban.md"
               }
             }
           }
@@ -48,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#radio",
+                "query": "tag:#high",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +63,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electricitat/Bateria.md",
+                "file": "Furgo kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electricitat/Bateria.md",
+                "file": "Furgo kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electricitat/Bateria.md"
+                "file": "Furgo kanban.md"
               }
             }
           },
@@ -156,11 +155,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2aa5b2800e77ad90",
+  "active": "07bbc0998d8aff13",
   "lastOpenFiles": [
-    "Furgo kanban.md",
-    "Gastos.md",
     "Joan coses kanban.md",
+    "Furgo kanban.md",
+    "Electricitat/Bateria.md",
+    "Gastos.md",
     "Radio/manual_frontal_radio.pdf",
     "Radio/Muntatge.md",
     "Interior/Disseny interior.md",
@@ -174,7 +174,6 @@
     "Radio/0.pdf",
     "Radio/Unconfirmed 609453.crdownload",
     "Radio",
-    "Electricitat/Bateria.md",
     "Electricitat/Electricitat.md",
     "Excalidraw/Drawing 2023-11-03 15.09.32.excalidraw.md",
     "Exterior/Toldo.md",

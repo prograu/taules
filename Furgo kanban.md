@@ -24,7 +24,8 @@ kanban-plugin: basic
 ## DOING
 
 - [ ] Afegir tota la info dels catàlegs @{2023-11-17} #obsidian
-- [x] Radio muntatge: @{2023-11-17} #radio #muntatge #electricitat <br>- [x] Muntar radio principal<br>- [ ] Muntar camara marxa enrera<br>- [x] Muntar antena DAB<br>- [x] Muntar microfon mans lliures
+- [x] Radio muntatge: @{2023-11-17} #radio #muntatge #electricitat  #high <br>- [x] Muntar radio principal<br>- [ ] Muntar camara marxa enrera<br>- [x] Muntar antena DAB<br>- [x] Muntar microfon mans lliures
+- [ ] Comprar: @{2023-11-24} #electricitat #muntatge <br>- [X] Interruptor llum<br>- [x] Cable elèctric<br>- [ ] Fusible 3A<br>- [ ] Entrada a bateria
 
 
 ## BLOCKED
@@ -33,7 +34,7 @@ kanban-plugin: basic
 
 ## DONE
 
-- [x] Comprar: @{2023-11-10} #electricitat #muntatge <br>- [x] Tenalles pelacables<br>- [x] Cinta d'electricitat<br>- [x] Brides<br>- [ ] Tornavis torx x25<br>- [x] amperímetre<br>- [x] regleta unió cables
+- [x] Comprar: @{2023-11-10} #electricitat #muntatge <br>- [x] Tenalles pelacables<br>- [x] Cinta d'electricitat<br>- [x] Brides<br>- [x] Tornavis torx x25<br>- [x] amperímetre<br>- [x] regleta unió cables
 - [x] Escollir radio final i comprar-ho tot @{2023-10-30} #radio
 - [x] Recollir paquets i gestionar GLS @{2023-11-06} #radio ^8xv4ej
 
